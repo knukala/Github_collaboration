@@ -2,5 +2,10 @@
 Violets are blue
 I love bioinformatics
 Hussein Herz
+<<<<<<< HEAD
 Competition winner
+
+=======
+I beat you guys!!!!
+>>>>>>> 1f78ae6f119a277e93d76ab415cff900f8861998
 
